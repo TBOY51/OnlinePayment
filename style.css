@@ -1,0 +1,68 @@
+.frst-img {
+  background-image: url(./img/Trust_FINAL.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 400px !important;
+}
+.snd-img {
+  background-image: url(./img/Frame\ 514696.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+}
+
+.third-img {
+  background-image: url(./img/Frame\ 5.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 135px;
+}
+
+.btnimg1 {
+  background-image: url(./img/EN_homepage_Auctions_desktop.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.btnimg2 {
+  background-image: url(./img/EN_homepage_Automotive_desktop.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.btnimg3 {
+  background-image: url(./img/EN_homepage_Crowdfunding_desktop.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.btnimg4 {
+  background-image: url(./img/EN_homepage_Franchises_desktop.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.btnimg5 {
+  background-image: url(./img/EN_homepage_Leisure_desktop.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.btnimg6 {
+  background-image: url(./img/EN_homepage_Marketplaces_desktop.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.world{
+  background-image: url(./img/Graphics-1.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 300;
+}
