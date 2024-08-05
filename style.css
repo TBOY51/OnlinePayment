@@ -59,17 +59,26 @@
   background-position: center;
 }
 
-
-.world{
+.world {
   background-image: url(./img/Graphics-1.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 300;
 }
 
-.cat-img{
+.cat-img {
   background-image: url(./img/cats-dogs-home.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: red; 
+  border-radius: 5px;
 }
